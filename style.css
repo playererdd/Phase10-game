@@ -1,0 +1,85 @@
+.title {
+    color: Green;
+    font-size: 30px;
+    text-align: center;
+}
+
+table,
+th,
+tr {
+    border: solid;
+    width: 800px;
+    height: 60px;
+    background-color: orange;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.title {
+    color: Green;
+    font-size: 50px;
+    text-align: center;
+}
+
+
+
+body {
+    background-image: url('images/Background.jfif');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.mainplayercards {
+    float: left;
+}
+
+mainplayer {
+    padding-top: 500px;
+}
+
+cardpile {
+    float: left;
+}
+
+
+.col-1 {
+    width: 100%;
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.col-2 {
+    width: 10%;
+}
+
+.row-3 {
+    height: 10%;
+}
+
+.test {
+    background-image: url('images/wx.png');
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 100px;
+    background-color: transparent;
+    border-color: transparent;
+}
+
+// Homepage css
+.mainpage{
+
+
+}
+.mainpagebutton{
+    width: 200px;
+    height: 75px;
+    margin-left: 45%;
+    font-weight: bold;
+}
+.inputtext{
+    margin-left: 45%;
+    width: 200px;
+}
